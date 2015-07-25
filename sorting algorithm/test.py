@@ -1,2 +1,2 @@
-i=4
-print(pow(2,i))
+reminder=4%2
+print (reminder)
