@@ -5,6 +5,8 @@ any particular order like ascending or descending order. The main thing about bu
 we sort by comparing each value with other values and move through the list. Hence this makes
 this algorithm slower when the data to sort is large.
 
+More Info at : https://en.wikipedia.org/wiki/Bubble_sort
+
 '''
 
 def ascending(list):
